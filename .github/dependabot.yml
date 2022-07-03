@@ -12,6 +12,10 @@ updates:
     directory: "/csharp/expression-trees" #expression-trees.csproj
     schedule:
       interval: "weekly"
+      
+      
+      
+      
       day: "wednesday"
     open-pull-requests-limit: 5
   - package-ecosystem: "nuget"
