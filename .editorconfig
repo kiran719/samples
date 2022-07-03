@@ -17,7 +17,10 @@ indent_size = 2
 # C# and Visual Basic files
 [*.{cs,vb}]
 charset = utf-8-bom
-
+   
+   
+   
+   This is dummy
 # Code quality analyzers
 dotnet_analyzer_diagnostic.category-Security.severity = error
 dotnet_code_quality.ca1802.api_surface = private, internal
